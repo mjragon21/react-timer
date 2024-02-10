@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .bg-custom-dark-bg {
+    background-color: rgba(27, 27, 31, 1);
+  }
+}
